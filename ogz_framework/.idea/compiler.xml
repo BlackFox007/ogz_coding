@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
+        <module name="netty" />
+        <module name="nosqldb" />
         <module name="ogz_framework" />
         <module name="rpc" />
+        <module name="sqldb" />
       </profile>
     </annotationProcessing>
   </component>

@@ -11,6 +11,9 @@
     <modules>
         <module>rpc</module>
         <module>cloud</module>
+        <module>netty</module>
+        <module>sqldb</module>
+        <module>nosqldb</module>
     </modules>
 
 
