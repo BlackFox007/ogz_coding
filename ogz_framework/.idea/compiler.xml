@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
+        <module name="jdk" />
+        <module name="mq" />
         <module name="netty" />
         <module name="nosqldb" />
         <module name="ogz_framework" />
